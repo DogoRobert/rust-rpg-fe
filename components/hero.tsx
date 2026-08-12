@@ -124,7 +124,7 @@ export function Hero() {
         {/* CTA buttons */}
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <a
-            href="https://github.com/your-username/rust-rpg"
+            href="https://github.com/DogoRobert/rust-rpg-be"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded font-mono text-sm font-medium transition-all"

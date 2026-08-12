@@ -69,7 +69,7 @@ export function CTASection() {
           </p>
 
           <a
-            href="https://github.com/your-username/rust-rpg"
+            href="https://github.com/DogoRobert/rust-rpg-be"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded font-mono text-sm font-bold transition-all"
@@ -85,12 +85,9 @@ export function CTASection() {
             }}
           >
             <GitHubIcon />
-            github.com/your-username/rust-rpg
+            https://github.com/DogoRobert/rust-rpg-be
           </a>
 
-          <p className="mt-4 text-xs text-muted-foreground font-mono">
-            Replace with your actual GitHub URL
-          </p>
         </div>
       </div>
     </section>

@@ -15,7 +15,7 @@ export function Footer() {
           <span>Built with Rust + egui</span>
           <span className="text-border">|</span>
           <a
-            href="https://github.com/your-username/rust-rpg"
+            href="https://github.com/DogoRobert/rust-rpg-be"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-foreground"

@@ -60,7 +60,7 @@ export function Navbar() {
 
         {/* GitHub link */}
         <a
-          href="https://github.com/your-username/rust-rpg"
+          href="https://github.com/DogoRobert/rust-rpg-be"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 text-xs font-mono text-muted-foreground transition-colors hover:text-foreground"
